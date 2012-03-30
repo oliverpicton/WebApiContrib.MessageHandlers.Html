@@ -1,3 +1,5 @@
-Often it is nice to have an HTML representation of an API on the same URL. This sample allows users to click around and explore an API from within a web browser using the same url the api.
+Often it is nice to have an HTML representation of an API on the same URL. This sample allows users to click around and explore an API from within a web browser using the same uri as a REST resource.
+
+Could well be classed as questionable jiggery pokery but it worked for my use case ;)
 
 Enjoy!
